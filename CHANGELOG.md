@@ -1,3 +1,13 @@
+## [1.0.2](https://github.com/leakytap/tavern-docker/compare/v1.0.1...v1.0.2) (2021-12-08)
+
+### Documentation
+
+- update registry references ([dd608cf](https://github.com/leakytap/tavern-docker/commit/dd608cf4003a14795caacd108a6591ac1cb30663))
+
+### Other
+
+- Merge branch 'main' of ssh://github.com/leakytap/tavern-docker ([3f343b5](https://github.com/leakytap/tavern-docker/commit/3f343b53937ca49deb4de93e6df894e253055635))
+
 ## [1.0.1](https://github.com/leakytap/tavern-docker/compare/v1.0.0...v1.0.1) (2021-12-08)
 
 ### Continuous Integration
