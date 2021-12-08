@@ -5,7 +5,7 @@ Docker image for [Tavern Testing](https://tavern.readthedocs.io/en/latest/)
 
 Docker:
 ``` bash
-docker run -v ./tavern:/tavern -it leakytap/tavern-docker:latest
+docker run -v ./tavern:/tavern -it ghcr.io/leakytap/tavern-docker:latest
 ```
 
 Docker compose:
@@ -13,10 +13,9 @@ Docker compose:
 version: "3.5"
 services:
   tavern-testing:
-    image: leakytap/tavern-docker:latest
+    image: ghcr.io/leakytap/tavern-docker:latest
     entrypoint: sh -c 'py.test --tavern-global-cfg /scripts/common.yaml'
     working_dir: /scripts
     volumes:
       - ./tavern:/scripts
-
 ```
