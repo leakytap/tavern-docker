@@ -16,7 +16,6 @@ jobs:
       - name: Build
         run: |
           docker build \
-            --file ./build/Dockerfile \
             -t ghcr.io/leakytap/tavern-docker:${REF##*/} \
             -t ghcr.io/leakytap/tavern-docker:latest .
 
