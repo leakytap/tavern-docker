@@ -1,3 +1,13 @@
+# [1.1.0](https://github.com/leakytap/tavern-docker/compare/v1.0.2...v1.1.0) (2021-12-08)
+
+### Features
+
+- include wait-for-it ([84fd93f](https://github.com/leakytap/tavern-docker/commit/84fd93f64075ffb24bc129a26e8723a3992270be))
+
+### Other
+
+- Merge branch 'main' of ssh://github.com/leakytap/tavern-docker ([17d78e8](https://github.com/leakytap/tavern-docker/commit/17d78e8d5120dca7670898af8589c8cd7ff4dbf6))
+
 ## [1.0.2](https://github.com/leakytap/tavern-docker/compare/v1.0.1...v1.0.2) (2021-12-08)
 
 ### Documentation
