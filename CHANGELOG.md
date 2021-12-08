@@ -1,3 +1,9 @@
+## [1.1.1](https://github.com/leakytap/tavern-docker/compare/v1.1.0...v1.1.1) (2021-12-08)
+
+### Continuous Integration
+
+- release under organization ([3e62e45](https://github.com/leakytap/tavern-docker/commit/3e62e4576cdba551a9a081e905562e4e55c87dd5))
+
 # [1.1.0](https://github.com/leakytap/tavern-docker/compare/v1.0.2...v1.1.0) (2021-12-08)
 
 ### Features
