@@ -1,3 +1,9 @@
+## [1.1.2](https://github.com/leakytap/tavern-docker/compare/v1.1.1...v1.1.2) (2021-12-08)
+
+### Documentation
+
+- add opencontainer annotations ([505e50c](https://github.com/leakytap/tavern-docker/commit/505e50c5547465af065f80273a42f1d8f51a306a))
+
 ## [1.1.1](https://github.com/leakytap/tavern-docker/compare/v1.1.0...v1.1.1) (2021-12-08)
 
 ### Continuous Integration
